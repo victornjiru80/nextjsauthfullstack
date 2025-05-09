@@ -99,7 +99,7 @@ const SignIn = () => {
                 <Separator/>
 
                 <p className='text-center text-sm mt-2 text-muted-foreground'>
-                    Dont have an account? 
+                    No account? 
                     <Link href="sign-up" className='text-sky-700 ml-4 hover:underline cursor-pointer'>Create new account</Link>
                 </p>
 
